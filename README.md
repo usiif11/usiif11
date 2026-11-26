@@ -10,6 +10,9 @@ Building intelligent systems to solve real-world problems.
 </p>
 
 <p align="center">
+  <a href="https://yousef-hossam.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/yousef-hossam-63b167358">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -27,6 +30,8 @@ My primary interests include Machine Learning, Deep Learning, Computer Vision, G
 I enjoy working on the complete AI development pipeline, from data preprocessing and exploratory analysis to model training, evaluation, optimization, and deployment.
 
 I also explore software engineering and web development to turn AI models into practical, accessible applications.
+
+Explore my [professional portfolio](https://yousef-hossam.vercel.app) for selected projects, technical skills, certifications, and my resume.
 
 ## Areas of Interest
 
@@ -72,8 +77,8 @@ I also explore software engineering and web development to turn AI models into p
 | Project | Domain | Description |
 |---------|--------|-------------|
 | AgriSense | Applied AI | AI-powered agricultural pest diagnosis and decision support system. |
-| Sports Player Tracking | Computer Vision | Object detection and multi-object tracking for sports video analysis. |
-| Breast Cancer Classification | Machine Learning | Research project combining Random Forest and Genetic Algorithms for classification and feature selection. |
+| [Sports Player Tracking](https://github.com/usiif11/sports-player-tracking-optimization) | Computer Vision | Object detection and multi-object tracking for sports video analysis. |
+| [Breast Cancer Classification](https://github.com/usiif11/breast-cancer-ml-optimization) | Machine Learning | Research project combining Random Forest and Genetic Algorithms for classification and feature selection. |
 | RAG & AI Agents | Generative AI | Exploring intelligent assistants and knowledge retrieval systems. |
 | MNIST Denoising Autoencoder | Deep Learning | Image reconstruction and noise removal using neural networks. |
 | Educational Management Platform | Software Engineering | A deployed web application for student and academic management. |
@@ -96,7 +101,7 @@ Open to AI engineering opportunities, research collaborations, internships, and 
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/yousef-hossam-63b167358) | [GitHub](https://github.com/usiif11)
+[Portfolio](https://yousef-hossam.vercel.app) | [LinkedIn](https://www.linkedin.com/in/yousef-hossam-63b167358) | [GitHub](https://github.com/usiif11)
 
 ---
 
